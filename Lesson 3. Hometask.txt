@@ -1,0 +1,19 @@
+1. Регулярний вираз для дат:
+
+(\d{4}(\.|\/)\d{2}(\.|\/)\d{2})|\s(\d{2}(\-|\/)\d{2}(\-|\/)\d{4})|(\w+.\d{2},.\d{4})
+
+2. Регулярний вираз для email:
+
+([a-zA-Z0-9_.+-]+)@[a-zA-Z0-9.+-]+\.[a-zA-Z0-9.+-]+
+
+3. XPath для першого тегу <input>
+
+//input[@placeholder="Cargo, palavras-chave ou empresa"]
+
+4. XPath для другого тегу <input>
+
+//input[@placeholder="Cidade, estado, região ou “remoto”"]
+
+5. XPath для кнопки:
+
+//button[text()="Achar vagas"]
