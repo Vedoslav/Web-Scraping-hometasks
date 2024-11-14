@@ -1,60 +1,48 @@
-Ouvrier agricole  H/F
-Commercial terrain  H/F
-Technicien de maintenance  H/F industrie
-Assistant(e) recouvrement  H/F
-Plieur cn  H/F
-Technicien thermostats  H/F
-Technicien thermostats  H/F
-Technicien d&#8217;élevage  H/F itinérant
-Gestionnaire de recouvrement  H/F
-Technicien de maintenance industrielle  H/F
-Commercial gms  H/F secteur idf sud
-Commercial terrain gms  H/F
-Ouvrier agricole  H/F
-Commercial terrain  H/F
-Technicien de maintenance  H/F industrie
-Assistant(e) recouvrement  H/F
-Plieur cn  H/F
-Technicien thermostats  H/F
-Technicien thermostats  H/F
-Technicien d&#8217;élevage  H/F itinérant
-Gestionnaire de recouvrement  H/F
-Technicien de maintenance industrielle  H/F
-Commercial gms  H/F secteur idf sud
-Commercial terrain gms  H/F
-Commercial gms  H/F agroalimentaire
-Chef d&#8217;atelier  H/F
-Commercial terrain  H/F
-Conducteur de machine hp  H/F
-Chef d&#8217;equipe foreur (  H/F) // j.r
-Commercial terrain  H/F
-Monteur cableur  H/F
-Approvisionneur  H/F
-Gestionnaire de paie
-Chargeur dechargeur
-Maçon  H/F
-Paysagiste  H/F
-Preparateur de commande CACES 1
-Câbleur  H/F
-Cariste
-Preparateur de commande
-Commercial terrain  H/F
-Comptable btp  H/F
-Carrossier-peintre  H/F
-Kinesitherapeute en CDI temps plein  H/F
-Technicien de maintenance  H/F
+Menuisier agenceur  H/F
+Conducteur de ligne  H/F
+Conducteur d&#8217;engins  H/F
+Technien(ne) en r&amp;d
+Cariste industriel  H/F
+Maçon vrd  H/F
+Poissonier  H/F
 Inventoriste  H/F
-Dessinateur  H/F
-Responsable d&#8217;unité de conditionnement  H/F
-Technicien electroérosion  H/F
-Rectifieur  H/F
-Tourneur  H/F
-Chargé de recrutement / assistant RH  H/F
-Chargé de recrutement / assistant RH  H/F
-Responsable d&#8217;agence  H/F
-Responsable production debutant  H/F
-Plieur  H/F
-Cariste r489 cat 3  H/F
-Agent entretien espace vert  H/F
-Plaquiste  H/F
-Chaudronnier   H/F
+Assistant d&#8217;exploitation &#8211; relation client  H/F
+Agent de quai temps partiel matin  H/F
+Agent de maintenance des batiments  H/F
+Coffreur/bancheur  H/F
+Magasinier/ cariste  H/F
+Mecanicien  H/F
+Cuisinier collectivité  H/F
+Préparatrice de commandes &#8211; vémars  H/F
+Conditionneuse &#8211; vémars  H/F
+Opérateur commandes numeriques  H/F
+Conducteur pelle  H/F
+Conducteur de ligne conditionnement  H/F
+Chef d&#8217;équipe  H/F
+Préparateur de commandes CACES 1  H/F
+Ebavureur industriel  H/F
+Job ponctuel  idéal étudiant  H/F
+Technicien travaux  H/F
+Soudeur  H/F
+Agent de production  H/F
+Appui métier  H/F
+Job ponctuel  idéal étudiant  H/F
+Superviseur(se) production nuit  H/F
+Agent de production  H/F
+Superviseur(se) production 2*8  H/F
+Technicien support  H/F
+Monteur d&#8217;échafaudage  H/F
+Superviseur(se) production 3*12  H/F
+Technicien(ne) de maintenance industrielle  H/F
+Préparateur d&#8217;engins de chantier  H/F
+Technicien(ne) qualite 3*12  H/F
+Ajusteur monteur de systèmes mécaniques cabine aéronautique  H/F job qui décolle
+Magasinier  H/F
+Responsable ressources humaines &#8211; hrbp   H/F job qui décolle
+Chef de rayon meuble   H/F
+Boulanger industriel  H/F
+Electromécanicien  H/F
+Ouvrier polyvalent  H/F
+Conducteur d&#8217;engins de chantier  H/F
+Coordinateur qualité client  H/F
+Aide couvreur   H/F
