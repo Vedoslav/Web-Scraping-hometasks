@@ -5,7 +5,7 @@ from tqdm import tqdm
    
 def get_titles():
     titles_gen = []    
-    for i in tqdm(range(5)):
+    for i in tqdm(range(1,5)):
         payload = {
         "action": "facetwp_refresh",
         "data": {
