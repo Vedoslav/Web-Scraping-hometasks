@@ -6,9 +6,7 @@ import json
 import xml.etree.ElementTree as ET
 import sqlite3
    
-def get_titles():
-    titles_gen = [] 
-    data = []     
+def get_titles():    
     url = 'https://www.lejobadequat.com/emplois'
     resp = requests.get(url, headers={'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0'})
     content = resp.text
